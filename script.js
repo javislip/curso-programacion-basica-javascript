@@ -23,4 +23,6 @@ function sumarInputValues(event) {
     pResult.innerText = "Resultado: " + sumaInputs;
 };
 
+//primera modificacion commit en github
+
 
